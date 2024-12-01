@@ -1,4 +1,4 @@
-# finite-state_machine
+# finite-state-machine
 
 pythonで状態遷移を使用するために作成したものです。
 
